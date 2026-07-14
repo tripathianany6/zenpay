@@ -1,0 +1,10 @@
+{
+  "name": "ZenPay",
+  "short_name": "ZenPay",
+  "description": "Self-Checkout ZenPay",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#58a6ff",
+  "orientation": "portrait"
+}
